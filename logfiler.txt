@@ -1,0 +1,8 @@
+
+2023-03-06 01:19 [START] Logging Started.
+2023-03-06 13:19 [SET_PASSWORD] Passkey is now SHAHROQ.
+2023-03-06 13:19 [ENCRYPT] String to be encrypted: BANANAS. Encrypted string: THNHEOI.
+2023-03-06 13:19 [DECRYPT] Decrypted string: RESULT: BANANAS.
+2023-03-06 13:19 [HISTORY] History Checked.
+2023-03-06 13:20 [SET_PASSWORD] Passkey is now BANANAS.
+2023-03-06 13:20 [ENCRYPT] String to be encrypted: BANANAS. Encrypted string: CAAAAAK.
